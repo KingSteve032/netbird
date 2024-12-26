@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	DefaultMTU         = 1280
+	DefaultMTU         = 1500
 	DefaultWgPort      = 51820
 	WgInterfaceDefault = configurer.WgInterfaceDefault
 )
